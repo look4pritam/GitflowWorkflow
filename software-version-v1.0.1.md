@@ -1,4 +1,4 @@
-# Release software version v1.0.0.
+# Release software version v1.0.1.
 
 ### Checkout master branch.
 
@@ -6,12 +6,12 @@
 git checkout master
 ```
 
-### Merge release-v1.0.0 branch into master branch.
+### Merge hotfix-v1.0.0 branch into master branch.
 
 Use --no-ff option to create a merge commit.
 
 ```sh
-git merge --no-ff release-v1.0.0
+git merge --no-ff hotfix-v1.0.0
 ```
 
 ### Push changes to the remote repository.
@@ -20,22 +20,22 @@ git merge --no-ff release-v1.0.0
 git push origin master
 ```
 
-### Create software version v1.0.0 tag.
+### Create software version v1.0.1 tag.
 
 ```sh
-git tag -a -m 'Software version v1.0.0 is released.' v1.0.0
+git tag -a -m 'Software version v1.0.1 is released.' v1.0.1
 ```
 
 ### View tag information.
 
 ```sh
-git show v1.0.0
+git show v1.0.1
 ```
 
 ### Push changes to the remote repository.
 
 ```sh
-git push origin v1.0.0
+git push origin v1.0.1
 ```
 
 ### Checkout develop branch.
@@ -44,12 +44,12 @@ git push origin v1.0.0
 git checkout develop
 ```
 
-### Merge release-v1.0.0 branch into develop branch.
+### Merge hotfix-v1.0.0 branch into develop branch.
 
 Use --no-ff option to create a merge commit.
 
 ```sh
-git merge --no-ff release-v1.0.0
+git merge --no-ff hotfix-v1.0.0
 ```
 
 ### Push changes to the remote repository.
@@ -58,16 +58,16 @@ git merge --no-ff release-v1.0.0
 git push origin develop
 ```
 
-### Delete release-v1.0.0 branch.
+### Delete hotfix-v1.0.0 branch.
 
 ```sh
-git branch -d release-v1.0.0
+git branch -d hotfix-v1.0.0
 ```
 
 OR
 
 ```sh
-git branch -D release-v1.0.0
+git branch -D hotfix-v1.0.0
 ```
 
 
