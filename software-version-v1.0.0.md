@@ -20,6 +20,24 @@ git merge --no-ff release-v1.0.0
 git push origin master
 ```
 
+### Create software version v1.0.0 tag.
+
+```sh
+git tag -a -m 'Software version v1.0.0 is released.' v1.0.0
+```
+
+### View tag information.
+
+```sh
+git show v1.0.0
+```
+
+### Push changes to the remote repository.
+
+```sh
+git push origin v1.0.0
+```
+
 ### Checkout develop branch.
 
 ```sh
