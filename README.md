@@ -18,7 +18,7 @@
 
 - [Create release-v1.0.0 branch](./release-v1.0.0-branch.md)
 
-- [Fix one bug from feature one on release-v1.0.0 branch.](./release-v1.0.0-bug-fix.md)
+- [Fix bug one from feature one on release-v1.0.0 branch.](./release-v1.0.0-bug-fix.md)
 
 - [Release software version v1.0.0.](./software-version-v1.0.0.md)
 
