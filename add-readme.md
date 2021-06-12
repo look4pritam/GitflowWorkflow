@@ -1,5 +1,11 @@
 # Create README file.
 
+### Compare the local and the remote repository.
+
+```sh
+git diff
+```
+
 ### Add README.md file.
 
 ```sh
@@ -30,8 +36,3 @@ git status
 git log --oneline --graph --all
 ```
 
-### Compare the local and the remote repository.
-
-```sh
-git diff
-```
