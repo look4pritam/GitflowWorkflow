@@ -32,10 +32,5 @@ git status
 git log --oneline --graph --all
 ```
 
-### Compare the local and the remote repository.
-
-```sh
-git diff
-```
 
 
