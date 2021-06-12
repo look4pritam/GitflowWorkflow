@@ -22,3 +22,5 @@
 
 - [Release software version v1.0.0.](./software-version-v1.0.0.md)
 
+- [Include changes from release v1.0.0 in feature two.](./rebase-feature-two-bug-fix.md)
+
