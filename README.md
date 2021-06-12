@@ -10,4 +10,6 @@
 
 - [Add feature one with some bugs.](./add-feature-one.md).
 
+- [Merge branch feature one into develop branch.](./merge-feature-one.md)
+
 
