@@ -1,4 +1,4 @@
-# Create feature one branch.
+# Create feature-one branch.
 
 ### Checkout develop branch.
 
@@ -6,7 +6,7 @@
 git checkout develop
 ```
 
-### Create feature one branch.
+### Create feature-one branch.
 
 ```sh
 git branch feature-one 
@@ -25,7 +25,7 @@ git checkout -b feature-one
 git branch --all
 ```
 
-### Checkout feature one branch.
+### Checkout feature-one branch.
 
 ```sh
 git checkout feature-one

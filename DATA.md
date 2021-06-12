@@ -1,1 +1,1 @@
-feature one with two bugs
+feature one with one bug
