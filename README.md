@@ -26,5 +26,5 @@
 
 - [Create hotfix-v1.0.0 branch.](./hotfix-v1.0.0-branch.md)
 
-- [Hotfix bug two from feature one on hotfix-v1.0.0 branch.](./release-v1.0.0-bug-fix.md)
+- [Hotfix bug two from feature one on hotfix-v1.0.0 branch.](./release-v1.0.0-hotfix.md)
 
