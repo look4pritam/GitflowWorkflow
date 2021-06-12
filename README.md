@@ -17,3 +17,5 @@
 - [Merge feature-one branch into develop branch.](./merge-feature-one.md)
 
 - [Create release-v1.0.0 branch](./release-v1.0.0-branch.md)
+
+- [Fix one bug from feature one on release-v1.0.0 branch.](./release-v1.0.0-bug-fix.md)
