@@ -1,6 +1,6 @@
 # Add feature one with some bugs.
 
-### Checkout feature one branch.
+### Checkout feature-one branch.
 
 ```sh
 git checkout feature-one
