@@ -30,4 +30,4 @@
 
 - [Release software version v1.0.1.](./software-version-v1.0.1.md)
 
-- [Include changes from software version v1.0.0 in feature two.](./rebase-feature-two-bug-fix.md)
+- [Include changes from software version v1.0.1 in feature two.](./rebase-feature-two-hotfix.md)

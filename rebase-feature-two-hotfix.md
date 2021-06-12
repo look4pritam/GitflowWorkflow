@@ -1,4 +1,4 @@
-# Include changes from software version v1.0.0 in feature-two branch.
+# Include changes from software version v1.0.1 in feature-two branch.
 
 ### Checkout feature-two branch.
 
