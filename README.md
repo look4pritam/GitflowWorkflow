@@ -34,3 +34,8 @@
 
 - [Merge feature-two branch into develop branch.](./merge-feature-two.md)
 
+- [Create release-v2.0.0 branch.](./create-release-v2.0.0-branch.md)
+
+- [Fix bug one from feature two on release-v2.0.0 branch.](./release-v2.0.0-bug-fix.md)
+
+- [Release software version v2.0.0.](./release-software-version-v2.0.0.md)
