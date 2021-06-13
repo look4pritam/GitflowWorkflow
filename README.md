@@ -38,3 +38,4 @@
 
 - [Fix bug one from feature two on release-v2.0.0 branch.](./release-v2.0.0-bug-fix.md)
 
+- [Release software version v2.0.0.](./release-software-version-v2.0.0.md)
