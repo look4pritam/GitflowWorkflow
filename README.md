@@ -31,3 +31,11 @@
 - [Release software version v1.0.1.](./software-version-v1.0.1.md)
 
 - [Include changes from software version v1.0.1 in feature two.](./rebase-feature-two-hotfix.md)
+
+- [Merge feature-two branch into develop branch.](./merge-feature-two.md)
+
+- [Create release-v2.0.0 branch.](./create-release-v2.0.0-branch.md)
+
+- [Fix bug one from feature two on release-v2.0.0 branch.](./release-v2.0.0-bug-fix.md)
+
+- [Release software version v2.0.0.](./release-software-version-v2.0.0.md)
