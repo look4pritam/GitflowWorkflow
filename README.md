@@ -28,7 +28,7 @@
 
 - [Hotfix bug two from feature one on hotfix-v1.0.0 branch.](./hotfix-release-v1.0.0.md)
 
-- [Release software version v1.0.1.](./software-version-v1.0.1.md)
+- [Release software version v1.0.1.](./release-software-version-v1.0.1.md)
 
 - [Include changes from software version v1.0.1 in feature two.](./rebase-feature-two-hotfix.md)
 
@@ -43,3 +43,5 @@
 - [Create hotfix-v2.0.0 branch.](./create-hotfix-v2.0.0-branch.md)
 
 - [Hotfix bug two from feature two on hotfix-v2.0.0 branch.](./hotfix-release-v2.0.0.md)
+
+- [Release software version v2.0.1.](./release-software-version-v2.0.1.md)
