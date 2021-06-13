@@ -36,3 +36,5 @@
 
 - [Create release-v2.0.0 branch.](./create-release-v2.0.0-branch.md)
 
+- [Fix bug one from feature two on release-v2.0.0 branch.](./release-v2.0.0-bug-fix.md)
+
